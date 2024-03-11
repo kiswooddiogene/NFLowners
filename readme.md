@@ -26,4 +26,3 @@ The purpose of this project is to conduct an in-depth analysis of NFL team owner
 
 This README is a work in progress, stay tuned for more updates and insights!
 
-We hope you enjoy the journey with us as we uncover the secrets behind the teams and their owners. 
